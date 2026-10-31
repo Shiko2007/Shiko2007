@@ -1,50 +1,54 @@
 <table>
 <tr>
-<td width="33%" valign="middle">
+<td width="40%" valign="middle">
 <pre>
-              `.'!~[.   ''              
-            'k%#%###%ghg%%hjkg~         
-          `[M@##%%%%%##########j        
-        .jM@##%%%%M%%%%%%%%%%%##k`      
-       '%@##%%%%%%%%%%MMMMMMM%%%@h      
-       p@#%%%%%%%%%##%%M%%MMMMM%%#L     
-      |@#%%MM%%%##Mwghpg%#%%MMMM%#@j    
-      h@%%%M%wjLhj!''.~~kM%%%%MMM%#@~   
-     [%#%MM%M|''        `![khgM%MM%@j   
-   `k##%MM%%p~  '..'`  ``'`  `~|p%%#g   
-   `p#%MM%wL|!..|[jkj|!.!~|[LL!`[%%#p   
-    !#%MMw|`'!|jkkhhkL~.~jggkjL~~M%#M   
-    [#M%%p' `![LjjkjL|!'~kppwpgL~h#@k   
-    'ggM#p'`''`'..'''..'.|~~[LLL.j@k    
-     hkkpj...'`   ``.!!``!.``''`'g@!    
-     |jj|!!!!!.``.!'![jLLk~'  `'~ML     
-     `LL~~|~~|~~|[~.!!.~~!.!!.!|kh      
-      `!~Lh[~~~~[khghL[jjhkjLjkhh|      
-        `jML||!'.![hj[[LkgMh|[gh|`      
-          !jL|~!.``!||~~|LL!!j[`        
-           ~jL[|!.` `~[LL|!|j|          
-           .L|[jj[~.'````![[.           
-          '[L~!|LkhkjjLLLkh.'''``       
-       !Ljgk[!..!|[jkhhkjkj.Lhppg[`     
-    `.~[gwh[!'`'''.!|[[~[L~.Lhppkh~    
+              `'''.!'   ``              
+            `LM%M%wwphkhMMhL[L.         
+          `!g#%#@#%#@@@@@@@@@#%[        
+        '[pM#M%@%%@@@@@@@@@@##@@j       
+       `w@@%Mp%%wM%%#@@@@@@@##@@@k      
+       g##%#%%%%M%Mwwpwp%#@#%@##@#[     
+      ~@#Mp%##Mw#@wj[~[|gM%#####@@#L    
+      j%Mwp##h!.LL' ``''|g##%@@@@@@@!   
+     ~pM%##@g' `         `!Ljh###@@@L   
+   `L%###@#pL'  `''`          .!h@@@h   
+   `h@@@@@k!'```.!||!.'`'''!|~' !M@@p   
+    .#@@@p'  `.|[[L|~!'`'!|[||!''M@@M   
+    ~MM@@h   '!|~||~!.'`'~LjkkL!`h@@j   
+    `[|g@h      ``   ````.''!!~~ L@k    
+     |~|k~````      `''  '`  `   k#.    
+     .!!''''''`  `' `!|!!|'     'h~     
+     `!!''''...'..'````'''`````.~|      
+       ''~[....'.|[L[~!~~||~!!~||.      
+         Lg!..'``'!L[~~~jhp['.|~.`      
+          .!!.''`  `....!~!`'!!         
+           '!!..'`   '!!!.'.!.          
+           `!..!!.'`     `..`           
+          `..'''!~|~~!!!!~~`````        
+       .!!~.'````'.!~~~!!!.`![jL[!      
+    `.!|[|'`       ``''``'``.[jL||.     
 </pre>
 </td>
-<td width="67%" valign="middle">
+<td width="60%" valign="middle">
 
 ```diff
+
 Profile
 Name ------------------------------ Sherif Fawzy
 Education ----------- Computer Engineering @ GUC
 Hackathon --------- AWS Bundesliga 2026 Finalist
+
 
 System
 OS --------------------------------------- MacOS
 Uptime ------------------------------ Since 2007
 Location -------------------------------- Berlin
 
+
 Knowledge
 Programming ------ Java, Python, JavaScript, C++
 Languages ---- English C2, Arabic C2, Deutsch A2
+
 
 Contact
 Discord -------------------------------- x_shiko
