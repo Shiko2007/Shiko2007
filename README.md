@@ -43,27 +43,27 @@
 
 
 Profile
-Name ------------------------------ Sherif Fawzy
-Education ----------- Computer Engineering @ GUC
-Hackathon --------- AWS Bundesliga 2026 Finalist
+Name -------------------------------------- Sherif Fawzy
+Education ------------------- Computer Engineering @ GUC
+Hackathon ----------------- AWS Bundesliga 2026 Finalist
 
 
 System
-OS --------------------------------------- MacOS
-Uptime ------------------------------ Since 2007
-Location -------------------------------- Berlin
+OS ----------------------------------------------- MacOS
+Uptime -------------------------------------- Since 2007
+Location ---------------------------------------- Berlin
 
 
 Knowledge
-Programming ------ Java, Python, JavaScript, C++
-Languages ---- English C2, Arabic C2, Deutsch A2
+Programming -------------- Java, Python, JavaScript, C++
+Languages ------------ English C2, Arabic C2, Deutsch A2
 
 
 Contact
-Discord -------------------------------- x_shiko
-Email ------------------------ shikofz@gmail.com
-Email ----------------- sherifzaki2007@gmail.com
-LinkedIn ---------------- sherif-fawzy-108416345
+Discord ---------------------------------------- x_shiko
+Email -------------------------------- shikofz@gmail.com
+Email ------------------------- sherifzaki2007@gmail.com
+LinkedIn ------------------------ sherif-fawzy-108416345
 
 
 ```
