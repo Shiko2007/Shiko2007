@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="40%" valign="middle">
+<td width="50%" valign="middle">
 <pre>
               `'''.!'   ``              
             `LM%M%wwphkhMMhL[L.         
@@ -29,9 +29,18 @@
     `.!|[|'`       ``''``'``.[jL||.     
 </pre>
 </td>
-<td width="60%" valign="middle">
+<td width="50%" valign="middle">
+
+
+
 
 ```diff
+
+
+
+
+
+
 
 Profile
 Name ------------------------------ Sherif Fawzy
@@ -55,6 +64,7 @@ Discord -------------------------------- x_shiko
 Email ------------------------ shikofz@gmail.com
 Email ----------------- sherifzaki2007@gmail.com
 LinkedIn ---------------- sherif-fawzy-108416345
+
 
 ```
 
