@@ -36,12 +36,6 @@
 
 ```diff
 
-
-
-
-
-
-
 Profile
 Name -------------------------------------- Sherif Fawzy
 Education ------------------- Computer Engineering @ GUC
