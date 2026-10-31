@@ -36,6 +36,7 @@
 
 ```diff
 
+
 Profile
 Name -------------------------------------- Sherif Fawzy
 Education ------------------- Computer Engineering @ GUC
@@ -58,7 +59,6 @@ Discord ---------------------------------------- x_shiko
 Email -------------------------------- shikofz@gmail.com
 Email ------------------------- sherifzaki2007@gmail.com
 LinkedIn ------------------------ sherif-fawzy-108416345
-
 
 ```
 
